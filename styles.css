@@ -1,0 +1,8 @@
+img, p{
+  max-width: 100%;
+  height: auto;
+  vertical-align: center;
+}
+img{
+  display: block;
+}
